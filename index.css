@@ -1,0 +1,21 @@
+html {
+  background-color: rgb(42, 44, 44);
+  height: 100%;
+  color: white;
+  font-size: 20px;
+}
+
+.box {
+  position: relative;
+}
+
+
+.main-info {
+  position: absolute;
+  margin-left: 190px;
+  margin-top: -170px;
+}
+
+.photo {
+  border-radius: 20%;
+}
